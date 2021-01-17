@@ -1,10 +1,11 @@
 body {
-  background: #333;
+  background: rgb(75, 16, 16);
   color: #fff;
 }
 
 .navbar {
-  border-bottom: #008ed6 3px solid;
+  background: rgba(161, 36, 27, 0.863);
+  border-bottom: #550202 3px solid;
   opacity: 0.8;
 }
 
